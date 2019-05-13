@@ -1490,14 +1490,12 @@ body {
 .cid-rqm1RAb1ay .form-control,
 .cid-rqm1RAb1ay .form-control:focus {
   background: #ffffff;
-  border: 1px solid #efefef;
+  border: 1px solid #ffffff;
 }
 .cid-rqm1RAb1ay .form-container {
   transition: all .2s;
-  border: 1px solid #efefef;
+  border: 1px solid #ffffff;
   padding: 1rem;
-  background: linear-gradient(#00214d, #00214d);
-  border: none;
 }
 .cid-rqm1RAb1ay textarea.form-control {
   min-height: 188px;
@@ -1517,10 +1515,10 @@ body {
 .cid-rqm1RAb1ay .mbr-text,
 .cid-rqm1RAb1ay .mbr-section-btn {
   text-align: left;
-  color: #333333;
+  color: #ffffff;
 }
 .cid-rqm1RAb1ay SPAN {
-  color: #333333;
+  color: #ffffff;
 }
 .cid-rqm1RAb1ay P {
   text-align: left;
